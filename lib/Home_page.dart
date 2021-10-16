@@ -8,7 +8,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: Text("SHAYAN"),
+        title: Text("Shoukat"),
       ),
       body: Center(
         child: Container(
